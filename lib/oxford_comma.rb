@@ -1,7 +1,6 @@
 def oxford_comma(array)
-array=["fiddleheads", "okra", and "kohlrabi"]
-  string = array.split ""
-    
+array=["fiddleheads","okra","kohlrabi"]
+ "#{["fiddleheads","okra","kohlrabi"].join(",")}"
 end
 
   
